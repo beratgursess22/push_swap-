@@ -15,15 +15,25 @@ d-Optimize your solution to minimize the number of operations.
 You are allowed to perform the following operations to manipulate the two stacks:
 
 sa (swap a): Swap the top two elements of stack A.
+
 sb (swap b): Swap the top two elements of stack B.
+
 ss (swap both): Perform sa and sb simultaneously.
+
 pa (push a): Pop the top element from stack B and push it to stack A.
+
 pb (push b): Pop the top element from stack A and push it to stack B.
+
 ra (rotate a): Shift all elements of stack A up by one position. The first element becomes the last.
+
 rb (rotate b): Shift all elements of stack B up by one position. The first element becomes the last.
+
 rr (rotate both): Perform ra and rb simultaneously.
+
 rra (reverse rotate a): Shift all elements of stack A down by one position. The last element becomes the first.
+
 rrb (reverse rotate b): Shift all elements of stack B down by one position. The last element becomes the first.
+
 rrr (reverse rotate both): Perform rra and rrb simultaneously.
 
 3-Push_Swap Project Steps
