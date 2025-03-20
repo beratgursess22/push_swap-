@@ -6,8 +6,11 @@ The project focuses on implementing a sorting algorithm using only a stack-based
 1-In this project, you are required to:
 
 a-Sort a stack of integers.
+
 b-Use two stacks (stack A and stack B).
+
 c-Perform sorting by using only a limited set of operations.
+
 d-Optimize your solution to minimize the number of operations.
 
 2-Push_Swap Operations
